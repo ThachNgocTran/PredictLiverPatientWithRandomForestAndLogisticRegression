@@ -8,8 +8,7 @@ Following are the highlights, hopefully some can capture your attention!
 * GridSearchCV is used to automatically search for optimal parameters in Random Forest and Logistic Regression.
 * I missed ggplot2 in R, but in Python for Data Science, seaborn [3] seems promising. This library is used to make Feature Scatter plot.
 * The algorithms’ performance is compared using ROC (Receiver operating characteristic) and AUC (Area Under Curve).
-* The source code is available at [4]. The quickest way to reproduce this report is to run “python.exe ClassificationTask.py” with “DataPreparation.py” and “Indian Liver Patient Dataset (ILPD).csv” put in the same place.
-* The report is conducted as a (simple) data analysis in which I go from constructing the ideas, to getting the “ideal” dataset, to cleansing it, to doing exploratory data analysis, to building the model, to interpreting the results.
+* The quickest way to reproduce this report is to run “python.exe ClassificationTask.py” with “DataPreparation.py” and “Indian Liver Patient Dataset (ILPD).csv” put in the same place.
 
 Please see my article:
 
@@ -24,3 +23,7 @@ Please see my article:
 ## Reference:
 
 1. [ILPD (Indian Liver Patient Dataset) Data Set](http://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29)
+
+2. [Anaconda3](https://www.continuum.io/downloads)
+
+3. [Seaborn: statistical data visualization](https://stanford.edu/~mwaskom/software/seaborn/)
